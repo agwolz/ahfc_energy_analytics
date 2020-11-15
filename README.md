@@ -11,7 +11,7 @@ Using energy consumption data from schools across the district, I was able to an
 **Analysis**<br>
 While analyzing the data, I uncovered disparities in school vs non-school hour electricity consumption across the various schools.
 <img src='ahfc_hourly_boxplot.png'>
-To determine what area constituted the 'low-hanging fruit', I also looked at electricity consumption across days of the week, specifically interested in weekend vs weekday consumption.
+<br>To determine what time granularity constituted the 'low-hanging fruit' for inefficiency, I also looked at electricity consumption across days of the week, specifically interested in weekend vs weekday consumption.
 <img src='weekday_sensor_boxplot.png'>
 
 **Result**<br>

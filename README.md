@@ -1,4 +1,4 @@
-# Delta Fellowship: Energy Consumption Metrics for the Mat-Su School District
+# Delta Fellowship: <br>Energy Consumption Metrics for the Mat-Su School District
 Part of a team of five Delta Analytics Fellows working with the Alaska Housing Finance Corporation to reduce the energy consumption across their stock of schools. 
 
 **Executive Summary**<br>

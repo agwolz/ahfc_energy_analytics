@@ -21,5 +21,5 @@ Given the evidence of clear energy savers and energy hogs, I developed the unocc
 * Actionable - Higher consumption during non-school hours is a 'low-hanging fruit' for reducing environmental impact and energy costs
 
 **Final Dashboard**<br>
-The <a href="https://public.tableau.com/profile/alex.wolz#!/vizhome/matsu_ratios_public/MatSuRatioDash" target="_blank">dashboard linked</a> is a representation of the ratio calculations and visualizations shared with our non-profit stakeholders.
+The <a href="https://public.tableau.com/profile/alex.wolz#!/vizhome/matsu_ratios_public/MatSuRatioDash">dashboard linked</a> is a representation of the ratio calculations and visualizations shared with our non-profit stakeholders.
 

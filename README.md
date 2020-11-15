@@ -20,4 +20,6 @@ Given the evidence of clear energy savers and energy hogs, I developed the unocc
 * Intuitive - The higher the ratio, the larger the opportunity for energy savings
 * Actionable - More energy consumption during non-school hours is a 'low-hanging fruit' for reducing environmental impact and energy costs
 
-https://public.tableau.com/profile/alex.wolz#!/vizhome/matsu_ratios_public/MatSuRatioDash
+**Final Dashboard**<br>
+The <a href="https://public.tableau.com/profile/alex.wolz#!/vizhome/matsu_ratios_public/MatSuRatioDash" target="blank_">dashboard linked</a> is a representation of the ratio calculations and visualizations shared with our non-profit stakeholders.
+

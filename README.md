@@ -11,7 +11,8 @@ Using energy consumption data from schools across the district, I was able to an
 **Analysis**<br>
 While analyzing the data, I uncovered disparities in school vs non-school hour electricity consumption across the various schools.
 <img src='ahfc_hourly_boxplot.png'>
-
+To determine what area constituted the 'low-hanging fruit', I also looked at electricity consumption across days of the week, specifically interested in weekend vs weekday consumption.
+<img src='weekday_sensor_boxplot.png'>
 
 **Result**<br>
 Given the evidence of clear energy savers and energy hogs, I developed the unoccupied-to-occupied ratio; a measure of how much electricity a school consumed during non-schools hours vs school hours. I specifically created this metric since it accomplished several key requirements that I decided with our AHFC stakeholders:

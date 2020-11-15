@@ -6,7 +6,7 @@ The Matanuska-Susitna Borough School District (shortened to Mat-Su) is located a
 
 Given the size and scope of the school district, our client, AHFC, installed an application called BMON into most schools. BMON monitors each school's gas and electricity consumption every 15 minutes. 
 
-Using this rich dataset, we were able to analyze consumptions patterns of the schools and identify inefficiencies. 
+Using this rich dataset, we were able to analyze consumptions patterns of the schools and identify inefficiencies. Our **goal** was to uncover inefficient usage patterns and provide a succinct, actionable metric for school administrators to understand their school's performance.
 
-
+**Result**
 We developed the unoccupied-to-occupied ratio, a ratio found by dividing a school’s non-school hours electricity consumption by school hours consumption. We hoped this ratio would answer: how is my school building consuming electricity after school hours compared to school hours, and how do my usage patterns compare to other schools? 
